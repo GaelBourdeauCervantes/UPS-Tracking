@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 10000px) {
   .form-container {
     width: 100%;
     margin-bottom: 20px;
